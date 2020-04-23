@@ -1,0 +1,9 @@
+Le programme se compile avec la commande:  make
+
+Le jeu peut ensuite être exécuté par les commandes make ou ./jeu
+
+En cas de problème avec le makefile :
+
+-mettre à jour: sudo apt-get update
+
+-installer sfml dans les librairies: sudo apt-get install libsfml-dev 
